@@ -1,2 +1,4 @@
-# Network_Packet_Manipulator
-packet manipulator tool
+<img width="777" height="384" alt="Screenshot 2025-08-25 154140" src="https://github.com/user-attachments/assets/53cea3c4-bd70-441e-b61b-c37caea123da" />
+
+
+In the era of rapidly evolving digital communication, understanding and analyzing network traffic is essential for ensuring security, optimizing performance, and troubleshooting issues. This project, Network Packet Manipulator, focuses on packet analysis and manipulation using Python and the Scapy library. It encompasses real-time packet sniffing, sending custom packets, ARP spoofing, and capturing QUIC packets, providing deep insights into network traffic, protocol distribution, and potential security threats. Implemented in a controlled environment with Windows 10 and Windows 7 as targets and Kali Linux as the attacking system, the project highlights security vulnerabilities, demonstrates attack techniques, and proposes mitigation strategies. Through advanced filtering techniques, deep packet inspection, and statistical analysis, this tool empowers network administrators, security professionals, and researchers to monitor, secure, and optimize network operations effectively. 
